@@ -8,5 +8,6 @@ public class Main
 		System.out.println("Guten Tag !");
 		System.out.println("Good day !");
 		System.out.println("Goeden Dag !");
+		System.out.println("Bonjour !");
 	}
 }
